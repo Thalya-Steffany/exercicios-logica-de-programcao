@@ -13,7 +13,6 @@ programa
 		reajuste+=sal
 		escreva("Seu novo salário é de : ", reajuste, " reais.")
 		
-		escreva("Testando crianção de branch")
 	}
 }
 /* $$$ Portugol Studio $$$ 
