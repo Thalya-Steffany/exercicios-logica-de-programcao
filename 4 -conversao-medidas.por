@@ -7,7 +7,7 @@ programa
 		
 		escreva("Digite sua medida em metros: \n")
 		leia(num1)	
-		resultado = num1 *100 // nao esquecer, que antes fazer a minha expressao, tenho que inicalizar a variavel que quera utilizar antes
+		resultado = num1 *100 // nao esquecer, que antes fazer a minha expressao, tenho que inicalizar a variavel que quero utilizar antes
 		limpa()
 		escreva("Sua medida em em centímetros é: ",resultado)
 	}
