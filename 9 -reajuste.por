@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		//receba salário, calcular e mostra o novo salário com reajust de 15%
+		//receber salário, calcular e mostrar o novo salário com reajuste de 15%
 
 		real sal, reajuste
 		escreva("Digite o valor do seu salário: \n")
